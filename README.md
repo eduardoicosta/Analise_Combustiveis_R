@@ -17,3 +17,5 @@ Este script cria uma animação mostrando a evolução dos preços médios de re
 
 ### Descrição
 Este script cria uma animação mostrando o ranqueamento dos municípios de Goiás por preço médio de revenda de gasolina comum ao longo do tempo.
+
+![Animação de Preços de Combustíveis em Goiás](combined.gif)
